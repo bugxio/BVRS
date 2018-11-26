@@ -12,6 +12,10 @@ Update  : 20181122
 
 后续我们会开源审核标准的其它文档。
 
+[BUGX.IO漏洞审核奖励表](https://github.com/bugxio/BVRS/blob/master/BUGX.IO漏洞审核奖励表.pdf)
+
+[厂商信息(排名、级别等)](https://github.com/bugxio/BVRS/blob/master/厂商信息/2018_11_26.csv)
+
 ## 漏洞奖励参考维度
 
 ### 1. 厂商类别
@@ -80,6 +84,4 @@ Update  : 20181122
 `最终奖励 = h(厂商排位, 最高奖励, 漏洞分数)`
 其中`最终奖励 ≥ (λ * 最高奖励)`，`λ`的值与厂商的级别有关，越高级别的厂商`λ`越大
 
-## 附录
 
-[BUGX.IO漏洞审核奖励表](https://github.com/bugxio/BVRS/blob/master/BUGX.IO漏洞审核奖励表.pdf)
