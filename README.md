@@ -82,4 +82,4 @@ Update  : 20181122
 
 ## 附录
 
-![BUGX.IO漏洞审核奖励表](https://github.com/bugxio/BVRS/blob/master/BUGX.IO漏洞审核奖励表.pdf)
+[BUGX.IO漏洞审核奖励表](https://github.com/bugxio/BVRS/blob/master/BUGX.IO漏洞审核奖励表.pdf)
