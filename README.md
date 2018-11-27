@@ -14,7 +14,7 @@ Update  : 20181122
 
 [BUGX.IO漏洞审核奖励表](https://github.com/bugxio/BVRS/blob/master/BUGX.IO漏洞审核奖励表.pdf)
 
-[厂商信息(排名、级别等)](https://github.com/bugxio/BVRS/blob/master/厂商信息/2018_11_26.csv)
+[厂商信息(排名、级别等)](https://github.com/bugxio/BVRS/blob/master/厂商信息/2018_11_27.csv)
 
 ## 漏洞奖励参考维度
 
