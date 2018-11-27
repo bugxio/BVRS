@@ -12,7 +12,7 @@ Update  : 20181122
 
 后续我们会开源审核标准的其它文档。
 
-[BUGX.IO漏洞审核奖励表](https://github.com/bugxio/BVRS/blob/master/BUGX.IO漏洞审核奖励表.pdf)
+[BUGX.IO漏洞审核奖励表](https://github.com/bugxio/BVRS/blob/master/奖励表.xlsx)
 
 [厂商信息(排名、级别等)](https://github.com/bugxio/BVRS/blob/master/厂商信息/2018_11_27.csv)
 
