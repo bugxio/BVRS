@@ -14,7 +14,7 @@ Update  : 20181122
 
 [BUGX.IO漏洞审核奖励表](https://github.com/bugxio/BVRS/blob/master/奖励表.png)
 
-[厂商信息(排名、级别等)](https://github.com/bugxio/BVRS/blob/master/exchange/2019_12_19.csv)
+[厂商信息(排名、级别等)](https://github.com/bugxio/BVRS/blob/master/exchange/2019_12_20.csv)
 
 ## 漏洞奖励参考维度
 
@@ -24,7 +24,7 @@ Update  : 20181122
 
 - `A`、`B`、`C`厂商需要：
 
-    1. [收录交易所](https://github.com/bugxio/BVRS/blob/master/exchange/2019_12_19.csv)列表中
+    1. [收录交易所](https://github.com/bugxio/BVRS/blob/master/exchange/2019_12_20.csv)列表中
     2. `24h交易量`满足最低值,`$10,000`
 
 - `D`类厂商
